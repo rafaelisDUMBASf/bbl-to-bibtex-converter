@@ -123,6 +123,6 @@ if __name__ == '__main__':
         bibtex_file_path = sys.argv[2]
         main(bbl_file_path, bibtex_file_path)
     else:
-        print("Usage: python convert_bbl_to_bibtex.py <input.bbl> <output.bib>")
-        print("Example: python convert_bbl_to_bibtex.py main.bbl main.bib")
+        print("Usage: python bbl-to-bibtex-converter.py <input.bbl> <output.bib>")
+        print("Example: python bbl-to-bibtex-converter.py example.bbl example_output.bib")
 
